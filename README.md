@@ -2,11 +2,14 @@
 
 ## 2017
 
+### October 22th 2017 (phptestfest)
+
+* [Introduction](http://phpugms.github.io/phpugmstestfest_greeting_2017-10/index.html)
+
 ### October 17th 2017
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2017-10/index.html)
 * Timo Tewes - [PHP Testfest Warmup](http://talks.timo-tewes.de/phptestfest-warmup/)
-
 
 ### September 20th 2017
 
