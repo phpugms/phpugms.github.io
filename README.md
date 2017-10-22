@@ -2,6 +2,10 @@
 
 ## 2017
 
+### November 21th 2017
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2017-11/index.html)
+
 ### October 22th 2017 (phptestfest)
 
 * [Introduction](http://phpugms.github.io/phpugmstestfest_greeting_2017-10/index.html)
