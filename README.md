@@ -13,6 +13,9 @@
 ### November 21th 2017
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2017-11/index.html)
+* Holger Woltersdorf - [
+Async PHP Requests & Reactive Responses with PHP-FPM](https://speakerdeck.com/hollodotme/async-php-requests-and-reactive-responses-with-php-fpm-4)
+* Holger Woltersdorf - [IceHawk - A PHP 7 micro framework respecting CQRS](https://speakerdeck.com/hollodotme/icehawk-a-php-7-micro-framework-respecting-cqrs)
 
 ### October 22th 2017 (phptestfest)
 
