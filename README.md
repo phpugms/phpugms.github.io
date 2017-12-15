@@ -11,7 +11,7 @@
 ## Slides 2017
 
 ### December 14th 2017
-* Benjamin Cremer - PHP 7.2 Introduction (https://talks.benjamin-cremer.de/phpugms_php72/#/)
+* Benjamin Cremer - [PHP 7.2 Introduction](https://talks.benjamin-cremer.de/phpugms_php72/#/)
 
 ### November 21th 2017
 
