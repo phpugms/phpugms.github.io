@@ -7,6 +7,12 @@
 * Contribute Slides and links on [GitHub](https://github.com/phpugms/)
 * Chat with us in the `#phpugms` room on the [PHPUG Slack](https://phpug.slack.com/) (Get your [Invite](https://php.ug/slackinvite))
 
+## Slides 2019
+
+### January 22th 2018
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-01/index.html)
+* Marcel Thole [GitLab](https://talks.marcelthole.de/toolchains/gitlab.html#/)
 
 ## Slides 2017
 
