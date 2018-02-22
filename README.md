@@ -9,6 +9,11 @@
 
 ## Slides 2018
 
+### February 20th 2018
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-02/index.html)
+* Roland Golla: CITT - Continuous Integration Training und Setup
+
 ### January 22th 2018
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-01/index.html)
