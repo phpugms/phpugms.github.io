@@ -12,7 +12,7 @@
 ### April 21th 2018
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-04/index.html)
-* Bastian Hofmann - [Getting started with Kubernetes](https://speakerdeck.com/bastianhofmann/getting-started-with-kubernetes)
+* Bastian Hofmann - [Getting started with Kubernetes](https://speakerdeck.com/bastianhofmann/introduction-to-kubernetes)
 
 ### March 22th 2018
 
