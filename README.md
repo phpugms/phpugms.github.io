@@ -9,6 +9,11 @@
 
 ## Slides 2018
 
+### May 16th 2018
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-05/index.html)
+* Andreas Ziethen - MySQL Profiling
+
 ### April 21th 2018
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-04/index.html)
