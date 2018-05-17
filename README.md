@@ -12,7 +12,7 @@
 ### May 16th 2018
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-05/index.html)
-* Andreas Ziethen - MySQL Profiling
+* Andreas Ziethen - [MySQL Profiling](https://www.slideshare.net/secret/2e10h7XWbPa8m5)
 
 ### April 21th 2018
 
