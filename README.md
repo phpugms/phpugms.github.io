@@ -9,6 +9,21 @@
 
 ## Slides 2018
 
+### May 16th 2018
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-05/index.html)
+* Andreas Ziethen - [MySQL Profiling](https://www.slideshare.net/secret/2e10h7XWbPa8m5)
+
+### April 21th 2018
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-04/index.html)
+* Bastian Hofmann - [Getting started with Kubernetes](https://speakerdeck.com/bastianhofmann/introduction-to-kubernetes)
+
+### March 22th 2018
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-03/index.html)
+* Daniel Espendiller - [What is new in Symfony 3,3, 3,4, 4.0, 4,1 + Flex](https://de.slideshare.net/Haehnchen/what-is-new-in-symfony-33-34-40-41-flex)
+
 ### February 20th 2018
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-02/index.html)
