@@ -9,6 +9,11 @@
 
 ## Slides 2018
 
+### June 21, 2018 
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-06/index.html)
+* Patrick Blom - 10 Fuckups über verschlüHR+cPszDEVvVD
+
 ### May 16th 2018
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-05/index.html)
