@@ -14,9 +14,6 @@
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-08/index.html)
 * Benjamin Cremer [(@benjamincremer)](https://twitter.com/benjamincremer) - [Static Code Analysis in PHP](https://talks.benjamin-cremer.de/phpugms_sca/#/)
 
-
-
-
 ### July 24, 2018 
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-07/index.html)
