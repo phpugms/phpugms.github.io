@@ -9,6 +9,21 @@
 
 ## Slides 2018
 
+### August 21, 2018 
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-08/index.html)
+* Benjamin Cremer [(@benjamincremer)](https://twitter.com/benjamincremer) - [Static Code Analysis in PHP](https://talks.benjamin-cremer.de/phpugms_sca/#/)
+
+### July 24, 2018 
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-07/index.html)
+* Christian Lück [(@another_clue)](https://twitter.com/another_clue) - Workshop: Getting Started with ReactPHP
+
+### June 21, 2018 
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-06/index.html)
+* Patrick Blom - [10 Fuckups über verschlüHR+cPszDEVvVD](https://speakerdeck.com/pbl0m/10-fuckups-uber-verschluhr-plus-cpszdevvvd)
+
 ### May 16th 2018
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-05/index.html)
