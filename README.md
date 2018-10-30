@@ -9,6 +9,16 @@
 
 ## Slides 2018
 
+### October 16, 2018 ###
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-10/index.html)
+* Carsten Dütschke [(@kingrookie99)](https://twitter.com/kingrookie99) - [The infinite worlds of (mobile) performance](https://docs.google.com/presentation/d/1g16VsOLrWpah1Zh1umEPiPD0w8ybkUmpgYoJEOIxJbY/edit?usp=sharing)
+
+### September 18, 2018 ###
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-09/index.html)
+* Rico Herwig [(@rherwig4711)](https://twitter.com/rherwig4711) - Web Accessibility (A11y)
+
 ### August 21, 2018 
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-08/index.html)
