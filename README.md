@@ -9,6 +9,17 @@
 
 ## Slides 2018
 
+
+### December 19, 2018 ###
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-12/index.html)
+
+### November 20, 2018 ###
+
+* [Introduction](http://phpugms.github.io/phpugms_greeting_2018-11/index.html)
+* Dario Tilgner - [No country for slow imports](http://slides.dariotilgner.de/NoCountryForSlowImports/2018-11-20-phpugms)
+
+
 ### October 16, 2018 ###
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-10/index.html)
