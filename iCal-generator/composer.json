@@ -1,0 +1,5 @@
+{
+    "require": {
+        "eluceo/ical": "^0.14.0"
+    }
+}
