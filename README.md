@@ -10,6 +10,11 @@
 ## Slides 2018
 
 
+### January 21, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-01)
+* Jochen Manz ([@JochenManz](https://twitter.com/JochenManz)) - PHP War Stories
+
 ### December 19, 2018 ###
 
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2018-12/index.html)
