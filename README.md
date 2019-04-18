@@ -9,6 +9,26 @@
 
 ## Slides 2019
 
+### Apr 18, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-04)
+* Michelangelo van Dam (@DragonBe)([@DragonBe](https://twitter.com/DragonBe)) - Privacy by design, yes we can!
+
+### Mar 20, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-03)
+* Niklas Dzösch (@ndzoesch)([@ndzoesch](https://twitter.com/ndzoesch))
+
+### Feb 19, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-02)
+* Marcel Thole ([@MarcelThole](https://twitter.com/marcelthole)) 
+
+### Feb 19, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-02)
+* Marcel Thole ([@MarcelThole](https://twitter.com/marcelthole)) 
+
 ### January 21, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-01)
