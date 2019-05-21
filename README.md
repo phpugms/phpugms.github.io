@@ -12,6 +12,7 @@
 ### May 20, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-05)
+* Izzetin Kaymaz - [Introduction to Traefik](https://waahhhh.gitlab.io/talks/introduction-to-traefik) | [Introduction to Traefik on Speaker Deck](https://speakerdeck.com/waahhhh/introduction-to-traefik)
 
 ### Apr 18, 2019 ###
 
