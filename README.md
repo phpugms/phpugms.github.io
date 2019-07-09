@@ -9,6 +9,27 @@
 
 ## Slides 2019
 
+### May 20, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-05)
+
+### Apr 18, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-04)
+* Michelangelo van Dam ([@DragonBe](https://twitter.com/DragonBe)) - 
+[Privacy by design, yes we can!](https://www.slideshare.net/DragonBe/privacy-by-design-135507143) and [Intro into Mutation Testing with Infection](https://github.com/DragonBe/infection-meetup)
+
+### Mar 20, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-03)
+* Niklas Dzösch ([@ndzoesch](https://twitter.com/ndzoesch)) - Golang for PHP devs
+
+### Feb 19, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-02)
+* Marcel Thole ([@MarcelThole](https://twitter.com/marcelthole)) - [Security in Web-Applications](https://talks.marcelthole.de/general/web-security/#/)
+
+
 ### January 21, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-01)
