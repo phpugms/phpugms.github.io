@@ -9,6 +9,22 @@
 
 ## Slides 2019
 
+### August 22, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-08)
+* Sebastian Feldmann - Hello my name is "if"
+
+### July 17, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-07)
+* Daniel Hüsken - The BackWPup story
+* Armin Hopp - MySQL 8 – not just a new version number
+
+### June 18, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-06)
+* Patrick Blom - BitBucket Pipelines, a basic introduction
+
 ### May 20, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-05)
