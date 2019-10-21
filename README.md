@@ -23,7 +23,7 @@
 
 ### June 18, 2019 ###
 
-* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-06)
+* Introduction
 * Patrick Blom - [BitBucket Pipelines, a basic introduction](https://www.patrick-blom.de/slides/bitbucket-pipelines)
 
 ### May 20, 2019 ###
