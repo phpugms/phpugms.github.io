@@ -2,12 +2,19 @@
 
 <img src="assets/phpugms-logo.svg" width="200">
 
+* Find upcoming meetups on [Gettogether](https://gettogether.community/php-usergroup-m%C3%BCnster/)
+* Find upcoming meetups on [Kommunity](https://kommunity.com/php-usergroup-munster)
 * Find upcoming meetups on [Meetup](https://www.meetup.com/phpugms/)
 * Follow us on [Twitter](https://twitter.com/phpugms/)
 * Contribute Slides and links on [GitHub](https://github.com/phpugms/)
 * Chat with us in the `#phpugms` room on the [PHPUG Slack](https://phpug.slack.com/) (Get your [Invite](https://php.ug/slackinvite))
 
 ## Slides 2019
+
+### October 22, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-10)
+* Marcel Thole - Aus alt mach neu - Legacy Code modernisieren
 
 ### August 22, 2019 ###
 
@@ -22,8 +29,8 @@
 
 ### June 18, 2019 ###
 
-* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-06)
-* Patrick Blom - BitBucket Pipelines, a basic introduction
+* Introduction
+* Patrick Blom - [BitBucket Pipelines, a basic introduction](https://www.patrick-blom.de/slides/bitbucket-pipelines)
 
 ### May 20, 2019 ###
 
