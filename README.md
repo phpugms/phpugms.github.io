@@ -2,6 +2,7 @@
 
 <img src="assets/phpugms-logo.svg" width="200">
 
+* Find upcoming meetups on [Gettogether](https://gettogether.community/php-usergroup-m%C3%BCnster/)
 * Find upcoming meetups on [Meetup](https://www.meetup.com/phpugms/)
 * Follow us on [Twitter](https://twitter.com/phpugms/)
 * Contribute Slides and links on [GitHub](https://github.com/phpugms/)
@@ -23,7 +24,7 @@
 ### June 18, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-06)
-* Patrick Blom - BitBucket Pipelines, a basic introduction
+* Patrick Blom - [BitBucket Pipelines, a basic introduction](https://www.patrick-blom.de/slides/bitbucket-pipelines)
 
 ### May 20, 2019 ###
 
