@@ -2,8 +2,6 @@
 
 <img src="assets/phpugms-logo.svg" width="200">
 
-* Find upcoming meetups on [Gettogether](https://gettogether.community/php-usergroup-m%C3%BCnster/)
-* Find upcoming meetups on [Kommunity](https://kommunity.com/php-usergroup-munster)
 * Find upcoming meetups on [Meetup](https://www.meetup.com/phpugms/)
 * Follow us on [Twitter](https://twitter.com/phpugms/)
 * Contribute Slides and links on [GitHub](https://github.com/phpugms/)
