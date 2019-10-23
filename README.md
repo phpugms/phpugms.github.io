@@ -12,7 +12,7 @@
 ### October 22, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-10)
-* Marcel Thole - Aus alt mach neu - Legacy Code modernisieren
+* Marcel Thole - [Aus alt mach neu - Legacy Code modernisieren](https://talks.marcelthole.de/general/legacy-to-modern/#/)
 
 ### August 22, 2019 ###
 
