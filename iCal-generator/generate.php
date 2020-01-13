@@ -19,7 +19,7 @@ function generateDates()
     $dtz = new \DateTimeZone('Europe/Berlin');
 
     foreach (range(1, 12) as $month) {
-        $time = sprintf("third %s 2019-%s", $weekdays[($month - 1 ) % 4], $month);
+        $time = sprintf("third %s 2020-%s", $weekdays[($month - 1 ) % 4], $month);
         yield new \DateTimeImmutable($time, $dtz);
     }
 }
