@@ -9,9 +9,9 @@
 
 ## Slides 2020
 
-### January 18, 2019 ###
+### January 28, 2020 ###
 
-* [Introduction](https://phpugms.github.io/phpugms_greeting_2020-20)
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2020-01)
 * Soner Sayakci - PHP FFI Intro
 * Thomas Kruse - gRPC in allen Schichten
 
@@ -167,6 +167,16 @@ Async PHP Requests & Reactive Responses with PHP-FPM](https://speakerdeck.com/ho
 * Vladimir Reznichenko - [Php Inspections (EA Extended): The Cookbook](https://www.slideshare.net/VladimirReznichenko/php-inspections-ea-extended-the-cookbook)
 
 ## Slides 2016
+
+## June 21, 2016 (EM Special)
+* Grill, Beer and UEFA Euro: Northern Ireland vs. Germany
+* Patrick Blom - "WhatsApp Chat-API with PHP"
+
+## May 17, 2016
+Frank Sons - "Gute Architektur - Zufall oder Design?"
+
+## April 19, 2016
+Stephan Hochdörfer - "Microservices: Klein, aber oho!"
 
 ###  March 15, 2016
 Andreas Heigl - "Schei? Encoding!"
