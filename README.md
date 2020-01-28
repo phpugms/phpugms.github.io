@@ -35,7 +35,6 @@ The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you
 * Rafał Wesołowski
 * Rico Herwig
 * Roland Golla
-* Roland Golla:
 * Sebastian Feldmann
 * Soner Sayakci
 * Stephan Hochdörfer
