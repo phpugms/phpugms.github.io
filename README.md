@@ -7,6 +7,46 @@
 * Contribute Slides and links on [GitHub](https://github.com/phpugms/)
 * Chat with us in the `#phpugms` room on the [PHPUG Slack](https://phpug.slack.com/) (Get your [Invite](https://php.ug/slackinvite))
 
+## Speaker Hall of Fame
+The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you!
+
+* Andreas Heigl
+* Andreas Ziethen
+* Andy Grunwald
+* Armin Hopp
+* Bastian Hofmann
+* Benjamin Cremer
+* Carsten Dütschke
+* Christian Lück
+* Daniel Espendiller
+* Daniel Hüsken
+* Daniel Nögel
+* Dario Tilgner
+* Frank Sons
+* Holger Woltersdorf
+* Izzetin Kaymaz
+* Jochen Manz
+* Marcel Thole
+* Marco Pivetta
+* Michelangelo van
+* Niklas Dzösch
+* Patrick Blom
+* Patrick Schumacher
+* Rafał Wesołowski
+* Rico Herwig
+* Roland Golla
+* Roland Golla:
+* Sebastian Feldmann
+* Soner Sayakci
+* Stephan Hochdörfer
+* Sven Finke
+* Thomas Kruse
+* Timo Tewes
+* Tobias Schlitt
+* Viktor Breitenbücher
+* Vladimir Reznichenko
+
+
 ## Slides 2020
 
 ### January 28, 2020 ###
