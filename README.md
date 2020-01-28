@@ -7,12 +7,34 @@
 * Contribute Slides and links on [GitHub](https://github.com/phpugms/)
 * Chat with us in the `#phpugms` room on the [PHPUG Slack](https://phpug.slack.com/) (Get your [Invite](https://php.ug/slackinvite))
 
+## Slides 2020
+
+### January 18, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2020-20)
+* Soner Sayakci - PHP FFI Intro
+* Thomas Kruse - gRPC in allen Schichten
+
 ## Slides 2019
+
+### December 19, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-12)
+* Rico Herwig - When PHP Renders JavaScript"
+
+### November 20, 2019 ###
+
+* [Introduction](https://phpugms.github.io/phpugms_greeting_2019-11)
+* Benjamin Cremer - Lightning Talk: PHP 7.4 - What is new
+* Patrick Blom - Lightning Talk
 
 ### October 22, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-10)
 * Marcel Thole - [Aus alt mach neu - Legacy Code modernisieren](https://talks.marcelthole.de/general/legacy-to-modern/#/)
+
+### Sepember 28, 2019 ###
+* (Special Event) Kostenloses Lasertag Event sponsored by RAIDBOXES
 
 ### August 22, 2019 ###
 
@@ -35,22 +57,21 @@
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-05)
 * Izzetin Kaymaz - [Introduction to Traefik](https://waahhhh.gitlab.io/talks/introduction-to-traefik) | [Introduction to Traefik on Speaker Deck](https://speakerdeck.com/waahhhh/introduction-to-traefik)
 
-### Apr 18, 2019 ###
+### Aprril 18, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-04)
 * Michelangelo van Dam ([@DragonBe](https://twitter.com/DragonBe)) - 
 [Privacy by design, yes we can!](https://www.slideshare.net/DragonBe/privacy-by-design-135507143) and [Intro into Mutation Testing with Infection](https://github.com/DragonBe/infection-meetup)
 
-### Mar 20, 2019 ###
+### March 20, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-03)
 * Niklas Dzösch ([@ndzoesch](https://twitter.com/ndzoesch)) - Golang for PHP devs
 
-### Feb 19, 2019 ###
+### February 19, 2019 ###
 
 * [Introduction](https://phpugms.github.io/phpugms_greeting_2019-02)
 * Marcel Thole ([@MarcelThole](https://twitter.com/marcelthole)) - [Security in Web-Applications](https://talks.marcelthole.de/general/web-security/#/)
-
 
 ### January 21, 2019 ###
 
