@@ -166,20 +166,63 @@ Async PHP Requests & Reactive Responses with PHP-FPM](https://speakerdeck.com/ho
 * [Introduction](http://phpugms.github.io/phpugms_greeting_2017-09/index.html)
 * Vladimir Reznichenko - [Php Inspections (EA Extended): The Cookbook](https://www.slideshare.net/VladimirReznichenko/php-inspections-ea-extended-the-cookbook)
 
+### August 15, 2017
+* Patrick Schumacher - Eine Einführung in die Power von GraphQL
+
+### June 20, 2017
+* Double Feature - Benjamin Cremer and Patrick Blom
+* Benjamin Cremer - Mythos Wiederverwendbarkeit und andere OOP-Lügen
+* Patrick Blom - Remote Plugin Management with Jenkins
+
+### May 16, 2017
+* Roland Golla - Testing Live-Coding-Session
+
+###  April 18, 2017
+* Double Feature - Stephan Hochdörfer and Andy Grunwald
+* Stephan Hochdörfer - "Disco - A fresh look at DI"
+* Andy Grunwald - Learn Redis the hard way ... in production
+
+### March 21, 2017
+* Sven Finke - Monitoring applications - evolve from text logs to extensive automatic monitoring
+
+### February 21, 2017
+* Daniel Espendiller - Symfony Plugin for PhpStorm - 3 years later
+
+### January 17, 2017
+* Rafał Wesołowski - Morgen ist gestern schon heute! Die Kunst der langfristigen Projektbetreuung
+
 ## Slides 2016
 
-## June 21, 2016 (EM Special)
+### December 20, 2016 (X-Mas Special)
+* X-Mas Special
+
+### November 15, 2016
+* Marco Pivetta - Event sourcing: The good, the bad, and the complicated
+
+### October 18, 2016
+* Christian Lück - Pushing the limits of PHP with React PHP
+
+### September 20, 2016
+* Michelangelo van Dam - Dockerize your unit tests for faster feedback
+
+### August 16, 2016
+* Viktor Breitenbücher - "Why Ansible"
+
+### July 19, 2016
+* Tobias Schlitt - Talk: "How much REST do you need?"
+
+### June 21, 2016 (EM Special)
 * Grill, Beer and UEFA Euro: Northern Ireland vs. Germany
 * Patrick Blom - "WhatsApp Chat-API with PHP"
 
-## May 17, 2016
-Frank Sons - "Gute Architektur - Zufall oder Design?"
+### May 17, 2016
+* Frank Sons - "Gute Architektur - Zufall oder Design?"
 
-## April 19, 2016
-Stephan Hochdörfer - "Microservices: Klein, aber oho!"
+### April 19, 2016
+* Stephan Hochdörfer - "Microservices: Klein, aber oho!"
 
 ###  March 15, 2016
-Andreas Heigl - "Schei? Encoding!"
+* Andreas Heigl - "Schei? Encoding!"
 
 ### February 16, 2016
 * Daniel Nögel - Graph databases like neo4j
