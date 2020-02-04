@@ -39,7 +39,7 @@ The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you
 * Jochen Manz
 * Marcel Thole
 * Marco Pivetta
-* Michelangelo van
+* Michelangelo van Dam
 * Niklas Dzösch
 * Patrick Blom
 * Patrick Schumacher
