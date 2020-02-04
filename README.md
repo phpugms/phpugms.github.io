@@ -8,6 +8,16 @@
 * Chat with us in the `#phpugms` room on the [PHPUG Slack](https://phpug.slack.com/) (Get your [Invite](https://php.ug/slackinvite))
 * [Edit](https://github.com/phpugms/phpugms.github.io/edit/master/README.md) this page
 
+## Table of contents
+
+* [Speaker Hall of Fame](#speaker-hall-of-fame)
+* [Slides 2020](#slides-2020)
+* [Slides 2019](#slides-2019)
+* [Slides 2018](#slides-2018)
+* [Slides 2017](#slides-2017)
+* [Slides 2016](#slides-2016)
+* [Slides 2015](#slides-2015)
+
 ## Speaker Hall of Fame
 The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you!
 
