@@ -6,6 +6,7 @@
 * Follow us on [Twitter](https://twitter.com/phpugms/)
 * Contribute Slides and links on [GitHub](https://github.com/phpugms/)
 * Chat with us in the `#phpugms` room on the [PHPUG Slack](https://phpug.slack.com/) (Get your [Invite](https://php.ug/slackinvite))
+* [Edit](https://github.com/phpugms/phpugms.github.io/edit/master/README.md) this page
 
 ## Speaker Hall of Fame
 The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you!
