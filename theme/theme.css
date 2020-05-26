@@ -54,7 +54,7 @@ body {
     content: '';
     height: 3px;
     width: 50px;
-    background: #189eff;
+    background: #50587c;
     display: block;
     margin: 1.25rem auto;
 }
@@ -262,7 +262,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a {
-    color: #199eff;
+    color: #50587c;
     text-decoration: none;
     -webkit-transition: color 0.15s ease;
     -moz-transition: color 0.15s ease;
@@ -378,7 +378,7 @@ body {
 .reveal footer {
     display: block;
     padding: 20px;
-    background: #199eff;
+    background-color: #7c83b7;
     position: absolute;
     bottom: 0;
     left: 0;
@@ -798,4 +798,5 @@ grayscale style (c) MY Sun <simonmysun@gmail.com>
 .hljs-chunk {
     color: #aaa;
 }
+
 
