@@ -21,6 +21,7 @@
 ## Speaker Hall of Fame
 The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you!
 
+* Andreas Braun
 * Andreas Heigl
 * Andreas Ziethen
 * Andy Grunwald
@@ -28,11 +29,13 @@ The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you
 * Bastian Hofmann
 * Benjamin Cremer
 * Carsten Dütschke
+* Christian Flothmann
 * Christian Lück
 * Daniel Espendiller
 * Daniel Hüsken
 * Daniel Nögel
 * Dario Tilgner
+* Dave Liddament
 * Frank Sons
 * Holger Woltersdorf
 * Izzetin Kaymaz
@@ -44,12 +47,14 @@ The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you
 * Patrick Blom
 * Patrick Schumacher
 * Rafał Wesołowski
+* Ramona Schwering 
 * Rico Herwig
 * Roland Golla
 * Sebastian Feldmann
 * Soner Sayakci
 * Stephan Hochdörfer
 * Sven Finke
+* Thomas Hartz
 * Thomas Kruse
 * Timo Tewes
 * Tobias Schlitt
@@ -58,6 +63,21 @@ The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you
 
 
 ## Slides 2020
+
+### August 24, 2020 ###
+* Ramona Schwering - E2E testing as it should be
+* Rafał Wesołowski - Schichtenarchitektur (Multitier Architecture) in Symfony Projekten
+
+### May 27, 2020 ###
+* Andreas Heigl - Time is an illusion
+* Dave Liddament - PHP Generics Today
+
+### April 6, 2020 ###
+* Thomas Hartz - Cloud Native PHP
+* Andreas Braun - Schema design for e-commerce
+
+### February 26, 2020 ###
+* Christian Flothmann ([@DragonBe](https://twitter.com/xabbuh)) - Was ist neu in Symfony?
 
 ### January 28, 2020 ###
 
