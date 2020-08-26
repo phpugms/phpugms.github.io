@@ -65,7 +65,7 @@ The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you
 ## Slides 2020
 
 ### August 24, 2020 ###
-* Ramona Schwering - E2E testing as it should be
+* Ramona Schwering([@leichteckig](https://twitter.com/leichteckig)) - [E2E testing as it should be](https://speakerdeck.com/leichteckig/e2e-testing-as-it-should-be) | [Code examples](https://github.com/leichteckig/cypress-intro-phpugms)
 * Rafał Wesołowski - Schichtenarchitektur (Multitier Architecture) in Symfony Projekten
 
 ### May 27, 2020 ###
