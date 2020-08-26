@@ -77,7 +77,7 @@ The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you
 * Andreas Braun - Schema design for e-commerce
 
 ### February 26, 2020 ###
-* Christian Flothmann ([@DragonBe](https://twitter.com/xabbuh)) - Was ist neu in Symfony?
+* Christian Flothmann ([@xabbuh](https://twitter.com/xabbuh)) - Was ist neu in Symfony?
 
 ### January 28, 2020 ###
 
