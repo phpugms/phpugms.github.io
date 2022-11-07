@@ -4,6 +4,7 @@
 
 * Find upcoming meetups on [Meetup](https://www.meetup.com/phpugms/)
 * Follow us on [Twitter](https://twitter.com/phpugms/)
+* Follow us on [Mastodon](https://phpc.social/@phpugms)
 * Contribute Slides and links on [GitHub](https://github.com/phpugms/)
 * Chat with us in the `#phpugms` room on the [PHPUG Slack](https://phpug.slack.com/) (Get your [Invite](https://php.ug/slackinvite))
 * [Edit](https://github.com/phpugms/phpugms.github.io/edit/master/README.md) this page
