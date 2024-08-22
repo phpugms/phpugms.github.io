@@ -12,6 +12,9 @@
 ## Table of contents
 
 * [Speaker Hall of Fame](#speaker-hall-of-fame)
+* [Slides 2023](#slides-2023)
+* [Slides 2022](#slides-2022)
+* [Slides 2021](#slides-2021)
 * [Slides 2020](#slides-2020)
 * [Slides 2019](#slides-2019)
 * [Slides 2018](#slides-2018)
@@ -39,6 +42,7 @@ The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you
 * Dave Liddament
 * Frank Sons
 * Holger Woltersdorf
+* Ingo Walther 
 * Izzetin Kaymaz
 * Jochen Manz
 * Marcel Thole
@@ -62,6 +66,24 @@ The wonderful people that haven spoken at one or more PHPUGMS meetups. Thank you
 * Viktor Breitenbücher
 * Vladimir Reznichenko
 
+## Slides 2023
+
+### January 26, 2023 ### 
+* How good are my tests?“ - Stephan Hochdörfer
+
+## Slides 2022
+
+### November 24, 2022 ####
+* PHP 8.2 Release Party and Get together
+
+## Slides 2021
+
+### October 13, 2021 ###
+* Hacktoberfest 2021
+  
+### May 10, 2021 ###
+* Benjamin Cremer - Intro into RoadRunner
+* Ingo Walther - JSON-Schema
 
 ## Slides 2020
 
